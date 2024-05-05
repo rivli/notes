@@ -1,0 +1,1 @@
+this is an obsidian vault for lesson notes
